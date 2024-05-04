@@ -3,7 +3,8 @@
 
 During my studies in Software and Information Systems Engineering, we learned application developemnt using C# with WPF and Windows Form.
 We've Learned many aspects of Object Oriented Programming including Multithreaded programming.
-This project mimics A memory File System, where files are saved, created and handled in RAM.
+Developed an in-memory file system in C#, focusing on multi-threading for efficient data management
+This project is a tiny File System, where files are saved, created and handled in RAM.
 There are options to load different files, encrypt or decryps (using AES encryption), compress them and afterwards saving the whole file system on disk.
 
 ### Built With
